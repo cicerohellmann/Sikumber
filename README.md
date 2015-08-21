@@ -30,7 +30,7 @@ After that navigte to the project folder and run cucumber And you'll see it test
 >https://cucumber.io/ 
 
 Any doubts how to use SikuliX :
->http://doc.sikuli.org/
+>[SikuliX Docs](http://sikulix-2014.readthedocs.org/en/latest/index.html)
 
 If you have any problems finding Sikuli, you may need to point to the .jar: 
 ```sh
