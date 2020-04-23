@@ -1,3 +1,5 @@
+# This is outdated and I don't believe this can be up to date with the current state of both Cucumber and Sikulix, but you are always welcome to take a look
+
 # Sikumber
 ##### Implementation of Sikulix working with JRuby and Cucumber in Mac OSX 10.10.x version 1.1.0
 
