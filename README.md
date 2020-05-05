@@ -9,7 +9,7 @@ You may need it's ide to take the pictures you will use to automate (for some re
 
  Something interesting that you may find usefull it's that when you generate any IDE test stuff, and save it, It generates python code (inside the project diretory in a .sikuli folde where also your images are stored when you take pics), that python code can be easyly used in JRuby tests (pretty much the same sintax). 
 
-- Here you can find information of what Sikuli you may download: http://nightly.sikuli.de/ 
+- Here you can find information of what Sikuli you may download: http://sikulix.com/
 
 - If you wanna know the exactly link I used to run this test: [nightly build](https://oss.sonatype.org/content/groups/public/com/sikulix/sikulixsetup/1.1.0-SNAPSHOT/sikulixsetup-1.1.0-20150723.231118-137-forsetup.jar)
 
